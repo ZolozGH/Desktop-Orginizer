@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Orginigger
+namespace Orgini
 {
     internal class DirectManager
     {
@@ -148,3 +148,4 @@ namespace Orginigger
         }
     }
 }
+
